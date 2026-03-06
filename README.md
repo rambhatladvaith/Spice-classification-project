@@ -1,6 +1,5 @@
 # Spice-classification-project
 
-Project Explanation
 
 This project demonstrates how to build and train a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify different types of spices from images.
 
